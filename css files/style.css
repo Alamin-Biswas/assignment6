@@ -1,0 +1,10 @@
+.pet-image-div{
+    height: 400px;
+    width: 200%;
+}
+
+.button.active {
+    background-color: #00a96e;
+    color: white;
+    border-color: darkgreen;
+}
